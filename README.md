@@ -1,4 +1,5 @@
-# Charlottesville Travel Itinerary Maker  
+# Charlottesville Travel Itinerary Maker 
+This project allows regular users to go in and automatically generate an itinerary for a set of days that they are visiting fitting certain criteria that they choose. Users are also able to reccomend new locations, which will can be reviewed and either approved or rejected from being in the pool of locations from with the itinerary is generated.
 
 ## Contributors:
 - Jaeson Martin 
