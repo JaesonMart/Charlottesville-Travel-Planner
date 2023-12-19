@@ -13,3 +13,5 @@ This project allows regular users to go in and automatically generate an itinera
 - To view the currently deployed version of the application deployed on Heroku, visit 'https://a12plannerapp-7070b47869a6.herokuapp.com/'
 
 
+## Note on Security
+It is known that some of the secret keys (such as the Google OAuth Key) are exposed in this repository which could be a major problem for the remote, live application. However, since the purpose of this project is to serve as more of a demo, it was decided to leave these secrets in the repository so that it is possible to run the application locally with ease for anyone that comes across it. 
